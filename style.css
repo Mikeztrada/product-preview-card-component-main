@@ -74,12 +74,10 @@ button {
     background-color: var(--Green-700);
     cursor: pointer;
   }
-  &:focus{
+  &:focus {
     outline: 2px solid var(--Green-700);
   }
 }
-
-
 
 .imagen-producto {
   width: 50%;
@@ -92,7 +90,7 @@ button {
   flex-direction: column;
   gap: 2rem;
   line-height: 1.5rem;
-  font-size: 14px;
+  font-size: 0.8rem;
 }
 
 .caja-precio {
